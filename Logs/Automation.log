@@ -1,0 +1,10 @@
+2020-11-23 18:43:22;  INFO;  Starting Test_Login testcase
+2020-11-23 18:43:22;  INFO;  Login page displayed
+2020-11-23 18:43:32;  INFO;  Login successful
+2020-11-23 18:43:40;  INFO;  Starting test_login_ddt testcase
+2020-11-23 18:43:40;  INFO;  Login page displayed
+2020-11-23 18:43:42;  INFO;  Test case passed for unsuccesssful login
+2020-11-23 18:43:44;  INFO;  Test case passed for unsuccesssful login
+2020-11-23 18:43:45;  INFO;  Test case passed for unsuccesssful login
+2020-11-23 18:43:57;  INFO;  Test case passed for successsful login
+2020-11-23 18:43:57;  INFO;  Test_login_DDT passed
