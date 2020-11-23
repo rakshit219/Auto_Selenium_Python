@@ -27,4 +27,6 @@ class Test_Login:
             self.logger.error("Login not successful")
             self.driver.close()
             assert False
+            
+        self.logger.info("Ending Test_Login testcase")
         
