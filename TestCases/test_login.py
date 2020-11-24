@@ -28,5 +28,4 @@ class Test_Login:
             self.driver.close()
             assert False
             
-        self.logger.info("Ending Test_Login testcase")
         
